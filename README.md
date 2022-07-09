@@ -1,3 +1,5 @@
+# This is a reupload, archived site: https://web.archive.org/web/20220708154412/https://github.com/AstraaDev/Fake-Verification-Bot, discord paf.#0001 if they get taken down
+
 <h1 align="center">[Discord] - Fake Verification Bot (V1.0.0)</h1>
 
 
